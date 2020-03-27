@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8">
+    <title> project: travel webpaje </title>
+    </head>
+    <body>
+    
+    <h1><srtong> viaje a España</strong> </h1>
+    
+    <p> me gustaria viajar a españa porque pienso que es un pais muy lindo para ir de viaje y conocer muchos lugares que tiene, me gustaria pasar mis vacaciones 
+    en España</p>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ecured.cu%2FBandera_de_la_Rojigualda&psig=AOvVaw2AhK1DMlVAA0XN4ThZoqZD&ust=1585423048244000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCK15-vu-gCFQAAAAAdAAAAABAI" with="200" lenght="170"
+    <p> cuidades donde me gustaria ir</p>
+    <ul>
+    <li> madrid</li>
+    <li> barcelona</li>
+    <li> sevilla </li>
+    </ul>
+    
